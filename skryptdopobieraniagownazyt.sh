@@ -22,8 +22,8 @@ clear
 
 echo -e $R"__   __          _         _          " $N
 sleep 0.3
-echo -e $R"\ \ / /__  _   _| |_ _   _| |__   " $N
-sleep 0.3
+echo -e $R"\ \ / /__  _   _| |_ _   _| |__   __" $N
+sleep 0.3 
 echo -e $R" \ V / _ \| | | | __| | | | '_ \ / _ \ " $N
 sleep 0.3
 echo -e $R"  | | (_) | |_| | |_| |_| | |_) |  __/ " $N
