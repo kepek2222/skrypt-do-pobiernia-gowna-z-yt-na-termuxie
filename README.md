@@ -20,7 +20,7 @@ i czekamy aż skończy
 
 jak używać:
 wybieramy film który nas interesuje
-udostępniamy go za pomocą termuxa, będzie gdzieś na liście aplikacji
+udostępniamy go za pomocą termuxa, który będzie gdzieś na liście aplikacji
 
 
 smacznej kawusi
