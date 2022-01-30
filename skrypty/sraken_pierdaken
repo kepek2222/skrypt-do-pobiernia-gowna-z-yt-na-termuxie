@@ -1,1 +1,1 @@
-yt-dlp --config-location /data/data/com.termux/files/home/.config/yt-dlp/config
+yt-dlp --config-location /data/data/com.termux/files/home/.config/yt-dlp/config $1
