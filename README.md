@@ -1,6 +1,11 @@
 # skrypt-do-pobiernia-gowna-z-yt-na-termuxie
 nuff said, prosty skrypt pobiera yt-dlp, pythona, ffmpeg i wgeta
 
+zajebista sprawa jest taka, że to działa na więcej niż youtube.
+to można używać na facebooku, tik toku i na paru innych stronach.
+ogólnie to temat oklepany jak twoja stara, takich skryptów jest pewnie z bilion
+ale to jest chyba jedyny po polsku (mogę się mylić)
+
 Instrukcja:
 odpalamy Termuxa,
 
