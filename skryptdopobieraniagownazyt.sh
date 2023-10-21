@@ -32,7 +32,7 @@ echo -e $R"  |_|\___/ \__,_|\__|\__,_|_.__/ \___" $N
 
 sleep 1.5
 
-echo -e $Y $L"instaler tego gowna do youtube made by"  $R "Wojtek(kepek2222)" $N
+echo -e $Y $L"instaler tego gowna do youtube made by"  $R "Ana(kepek2222)" $N
 
 echo -e $Y $L"najpierw musi ino wgrac pytonga" $N
 
