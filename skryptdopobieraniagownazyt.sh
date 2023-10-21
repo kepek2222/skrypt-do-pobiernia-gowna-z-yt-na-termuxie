@@ -76,9 +76,9 @@ echo -e $Y $L "i bieremy reszte plikow z mego githuba" $N
 		wget https://raw.githubusercontent.com/kepek2222/skrypt-do-pobiernia-gowna-z-yt-na-termuxie/main/skrypty/termux-url-opener -P /data/data/com.termux/files/home/bin
 		clear
 		
-echo -e $Y $L "postaw mi kawe w ramach podziekowania albo" $N
+echo -e $Y $L "postaw mi kawe w ramach podziekowania" $N
 sleep 5
 
-echo -e $G"zrob mi kurwa louda" $N
+echo -e $G"trans rights!" $N
 
 kill -1 $PPID
